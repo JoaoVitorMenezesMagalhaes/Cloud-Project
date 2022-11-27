@@ -51,3 +51,5 @@ Isso irá fazer com que apareça no seu terminal uma série de possíveis açõe
     - Deleta tudo o que foi criado com terraform destroy.
     0. Sair
     - Encerra a aplicação.
+
+Agora você já deve saber de tudo que é necessário para usar essa aplicação :) !!!
