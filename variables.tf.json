@@ -1,0 +1,1 @@
+{"variable": {"instance_type": {"default": ["t2.micro", "t2.small"]}, "instance_name": {"default": ["oi", "tchau"]}, "vpc_name": {"default": []}, "user_name": {"default": []}, "sg_name": {"default": []}, "sg_instance": {"default": [null, null]}}}
