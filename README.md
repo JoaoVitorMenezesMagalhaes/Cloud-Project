@@ -14,7 +14,7 @@ No link a seguir é possível seguir um tutorial de como instalar o Terraform no
 
 Para finalmente podermos usar o Terraform, basta configurar a AWS. Faremos isso com a AWS CLI.
 
-A partir desse link você pode baixar a AWS CLI. [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html).
+A partir desse link você pode baixar a [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html).
 
 Para terminar as configurações segue o link: [Interface da Linha de Comando da AWS](https://aws.amazon.com/pt/cli/)
 
